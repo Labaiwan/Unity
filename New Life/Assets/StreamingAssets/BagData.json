@@ -1,0 +1,64 @@
+[{
+	"itemname":"冲锋枪",
+	"itemid":0,
+	"itemsortIndex":0,
+	"itemdesc":"射速快、火力猛",
+	"itemspname":"AssaultRifle",
+	"itemcount":1,
+	"itemfunction":30
+},
+{
+	"itemname":"剑",
+	"itemid":1,
+	"itemsortIndex":0,
+	"itemdesc":"一把锋利的剑",
+	"itemspname":"Sword",
+	"itemcount":1,
+	"itemfunction":40
+},
+{
+	"itemname":"急救药",
+	"itemid":2,
+	"itemsortIndex":1,
+	"itemdesc":"恢复40的血量",
+	"itemspname":"potion_red",
+	"itemcount":4,
+	"itemfunction":40
+},
+{
+	"itemname":"钥匙",
+	"itemid":3,
+	"itemsortIndex":1,
+	"itemdesc":"保险箱钥匙",
+	"itemspname":"key",
+	"itemcount":0,
+	"itemfunction":0
+},
+{
+	"itemname":"防辐射服",
+	"itemid":4,
+	"itemsortIndex":1,
+	"itemdesc":"提供800点的辐射抗性",
+	"itemspname":"protective_clothing",
+	"itemcount":0,
+	"itemfunction":800
+},
+{
+	"itemname":"辐射防护药",
+	"itemid":5,
+	"itemsortIndex":1,
+	"itemdesc":"恢复150健康值",
+	"itemspname":"protective_agents",
+	"itemcount":0,
+	"itemfunction":150
+},
+{
+	"itemname":"信物",
+	"itemid":6,
+	"itemsortIndex":1,
+	"itemdesc":"证明身份信物",
+	"itemspname":"keepsake",
+	"itemcount":0,
+	"itemfunction":0
+}
+]
